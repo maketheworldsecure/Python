@@ -26,3 +26,9 @@ from bs4 import BeautifulSoup as soup" ,
 # 3.Program to find number of upper case an lower case letters in a string.
 
 Very first we wil get strings from the user and count the Upper and lower case letters.
+
+# 4.Program to find the largest word in the text file.
+
+Get a external text file then read the content of the file and find the largest word from it.
+
+
