@@ -31,4 +31,11 @@ Very first we wil get strings from the user and count the Upper and lower case l
 
 Get a external text file then read the content of the file and find the largest word from it.
 
+# 5.Program to sort heap sort algorithm.
+
+Get number from the user then sort using Heap queue algorithm.
+
+Hint :
+import heapq 
+
 
