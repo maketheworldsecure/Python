@@ -38,4 +38,6 @@ Get number from the user then sort using Heap queue algorithm.
 Hint :
 import heapq 
 
+# 6.Program to get a dictonary format data and convert in to JSON format.
 
+Get data in {'Hello': 5, 'Wow': 7, 'Covid': 3, 'Made': 4, 'in': 3, 'china': 4} and convert to JSON
